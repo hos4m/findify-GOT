@@ -1,0 +1,17 @@
+/* 1. Configuration and helpers ----------*/
+@import "./abstracts/_variables";
+
+/* 2. Vendors ----------*/
+@import
+  "./vendors/bootstrap";
+
+/* 3. Base ----------*/
+@import
+  "./base/_base";
+
+/* 4. Layout-related sections ----------*/
+
+/* 5. Components ----------*/
+
+/* 6. Page-specific styles ----------*/
+@import "./pages/App";
